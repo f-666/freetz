@@ -1,3 +1,4 @@
+$(error This branch is abandonned, as it has been merged into Freetz trunk. Don't use it anymore)
 # Makefile for Freetz, Kernel 2.6 series
 #
 # Copyright (C) 1999-2004 by Erik Andersen <andersen@codepoet.org>
